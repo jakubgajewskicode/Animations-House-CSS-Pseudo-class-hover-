@@ -5,7 +5,9 @@ Really simple project where by moving mouse on the <span></span> psedo class :ho
 Usefull tools:
 
 transform: translate(-50%, -50%);
+
 calc 
+
 z-index
 
 
